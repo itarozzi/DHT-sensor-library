@@ -13,3 +13,7 @@ which is designed to work with the [Adafruit unified sensor library](https://lea
 You must have the following Arduino libraries installed to use this class:
 
 - [Adafruit Unified Sensor Library](https://github.com/adafruit/Adafruit_Sensor)
+
+
+
+test modifiche
